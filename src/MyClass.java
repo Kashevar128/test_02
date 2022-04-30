@@ -6,5 +6,6 @@ public class MyClass {
             count++;
             System.out.println(count);
         }
+        System.out.println(new Main());
     }
 }
